@@ -21,9 +21,9 @@
 |Aplicaciones|Visto|
 |----------|----------|
 |Google Docs|![imagen](https://icones.pro/wp-content/uploads/2021/02/icone-de-tique-ronde-grise.png "titulo")|
-|Google Slides|    |
-|Google Sheets|    |
-|Google Calendar|    |
-|Google Meet|    |
-|...|    |
+|Google Slides|![imagen](https://icones.pro/wp-content/uploads/2021/02/icone-de-tique-ronde-grise.png "titulo")|
+|Google Sheets|![imagen](https://icones.pro/wp-content/uploads/2021/02/icone-de-tique-ronde-grise.png "titulo")|
+|Google Calendar|![imagen](https://cdn-icons-png.flaticon.com/128/3652/3652267.png "titulo")|
+|Google Meet|![imagen](https://cdn.pnghd.pics/data/637/icon-laptop-png-31.png "titulo")|
+|...|...|
 

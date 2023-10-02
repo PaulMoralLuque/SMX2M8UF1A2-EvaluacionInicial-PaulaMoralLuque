@@ -20,7 +20,7 @@
 
 |Aplicaciones|Visto|
 |----------|----------|
-|Google Docs|    |
+|Google Docs|(C:\GitHub Reposiorios\SMX2M8UF1A2-EvaluacionInicial-PaulaMoralLuque\icone-de-tique-ronde-grise.png)|
 |Google Slides|    |
 |Google Sheets|    |
 |Google Calendar|    |

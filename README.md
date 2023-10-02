@@ -22,8 +22,8 @@
 |----------|----------|
 |Google Docs|![imagen](https://images.vexels.com/media/users/3/139916/isolated/lists/c2f3d3d8252bbbcc15732d97144a571e-bot-n-de-icono-marcado.png "titulo")|
 |Google Slides|![imagen](https://images.vexels.com/media/users/3/139916/isolated/lists/c2f3d3d8252bbbcc15732d97144a571e-bot-n-de-icono-marcado.png "titulo")|
-|Google Sheets|![imagen](v "titulo")|
-|Google Calendar|![imagen](https://cdn-icons-png.flaticon.com/128/3652/3652267.png "titulo")|
+|Google Sheets|![imagen](https://images.vexels.com/media/users/3/139916/isolated/lists/c2f3d3d8252bbbcc15732d97144a571e-bot-n-de-icono-marcado.png "titulo")|
+|Google Calendar|![imagen](https://images.vexels.com/media/users/3/205950/isolated/lists/6fbc93ab8efc8497ef9ad1f7c815dd33-icono-de-trazo-de-calendario.png "titulo")|
 |Google Meet|![imagen](https://images.vexels.com/media/users/3/210180/isolated/lists/efba87a543ce2aaa98caa05e979924c7-ilustracion-de-portatil-negro.png "titulo")|
 |...|...|
 

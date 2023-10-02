@@ -27,3 +27,7 @@
 |Google Meet|![imagen](https://images.vexels.com/media/users/3/210180/isolated/lists/efba87a543ce2aaa98caa05e979924c7-ilustracion-de-portatil-negro.png "titulo")|
 |...|...|
 
+6. ¿Que es HTML?
+
+<span style="color:red">El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. Por ejemplo, sus contenidos podrían ser párrafos, una lista con viñetas, o imágenes y tablas de datos.</span>
+

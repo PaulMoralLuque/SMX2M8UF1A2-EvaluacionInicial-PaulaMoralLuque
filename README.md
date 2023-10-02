@@ -20,10 +20,10 @@
 
 |Aplicaciones|Visto|
 |----------|----------|
-|Google Docs|![imagen](https://icones.pro/wp-content/uploads/2021/02/icone-de-tique-ronde-grise.png "titulo")|
-|Google Slides|![imagen](https://icones.pro/wp-content/uploads/2021/02/icone-de-tique-ronde-grise.png "titulo")|
-|Google Sheets|![imagen](https://icones.pro/wp-content/uploads/2021/02/icone-de-tique-ronde-grise.png "titulo")|
+|Google Docs|![imagen](https://images.vexels.com/media/users/3/139916/isolated/lists/c2f3d3d8252bbbcc15732d97144a571e-bot-n-de-icono-marcado.png "titulo")|
+|Google Slides|![imagen](https://images.vexels.com/media/users/3/139916/isolated/lists/c2f3d3d8252bbbcc15732d97144a571e-bot-n-de-icono-marcado.png "titulo")|
+|Google Sheets|![imagen](v "titulo")|
 |Google Calendar|![imagen](https://cdn-icons-png.flaticon.com/128/3652/3652267.png "titulo")|
-|Google Meet|![imagen](https://cdn.pnghd.pics/data/637/icon-laptop-png-31.png "titulo")|
+|Google Meet|![imagen](https://images.vexels.com/media/users/3/210180/isolated/lists/efba87a543ce2aaa98caa05e979924c7-ilustracion-de-portatil-negro.png "titulo")|
 |...|...|
 
